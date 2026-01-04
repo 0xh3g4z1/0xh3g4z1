@@ -17,6 +17,9 @@
 
 <h2 align="center">💌 Connect with Me 💌</h2>
 <p align="center">
+    <a href="https://0xh3g4z1.xyz">My Blog</a>
+</p>
+<p align="center">
     <a href="https://linkedin.com/in/kamalhegazi" target="_blank">
         <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
