@@ -2,9 +2,6 @@
     <img src="https://komarev.com/ghpvc/?username=0xh3g4z1&label=Profile%20views&color=0e75b6&style=flat" alt="Kamal-Hegazi" />
 </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+0xh3g4z1 +!;" alt="Typing Animation" />
-</h1>
 <br>
 
 My name is Kamal Hegazi, a second-year CSIT student at the Egypt-Japan University of Science and Technology (E-JUST) with a deep passion for information technology, cybersecurity, and competitive programming. I enjoy solving complex technical problems and continuously push myself to grow through hands-on learning, collaboration, and competitive environments.
